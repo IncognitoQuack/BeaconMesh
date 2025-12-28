@@ -91,6 +91,8 @@ WebRTC requires a secure context (HTTPS). For local testing:
   ```bash
   npx localtunnel --port 3000
   ```
+  
+---
 
 ## 🛡 Security Note
 
